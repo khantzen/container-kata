@@ -9,7 +9,7 @@ This repository contains two projects, one backend and one frontend. Together th
 
 The frontend call the backend to get a list of quotes, quotes are sorted by different categories and belong to an external directory that the backend can read.
 
-The frontend is designed to call the backend on different endpoint (see ./backend/README.md for details).
+The frontend is designed to call the backend on different endpoint (see [./backend/README.md](https://github.com/khantzen/container-kata/blob/main/backend/README.md) for details).
 
 ## Setup
 
@@ -46,7 +46,7 @@ You currently have a backend and a frontend.
 
 Make sure you can call your container using http
 
-- You can type its url in your web browser (check backend/README.md for endpoint)
+- You can type its url in your web browser (check [./backend/README.md](https://github.com/khantzen/container-kata/blob/main/backend/README.md) for endpoint)
 - You can call it from any http request tool (postman, curl...)
 
 #### Make your frontend call your backend container
