@@ -72,6 +72,7 @@ Make sure your frontend is up and running and communicating with your backend co
 
 This is just a sample of what you can do but this project can help you on other stuff, here is some example.
 
+- Have the quotes stored in a database and make your container to get it from there (you may have to change the code for it).
 - Run frontend and backend containers on kubernetes (you can [install k3s](https://k3s.io/) to work on your local environment).
 - Make a repository for `frontend` and `backend` (just make sure to keep the licence) and have them build / delivered in a github action.
 - Get the api spec and quote files and code it in a way to get a Cloud Native image.
